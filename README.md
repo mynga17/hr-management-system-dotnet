@@ -52,6 +52,17 @@ The system is built using **C# and .NET Framework**, with a **SQL Server** datab
 - **Database Tool:** SQL Server Management Studio
 ---
 
+## 📄 Documentation
+
+The full project report can be downloaded here:
+
+👉 [Download Report (PDF)](docs/hr-management-system-report.pdf)
+
+> Note: GitHub may not preview large PDF files correctly.
+
+---
+
+
 ## 📂 Project Structure
 
 ```|
@@ -61,5 +72,8 @@ The system is built using **C# and .NET Framework**, with a **SQL Server** datab
 ```├── database/ # SQL scripts
 ```├── docs/ # Project documentation
 ```└── README.md
+
+
+
 
 
